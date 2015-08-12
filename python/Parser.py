@@ -2,9 +2,6 @@
 Created on Aug 11, 2015
 @author: brandonchoi
 '''
-
-# FIRST GO AT PYTHON!
-
 # parser for text file with the following syntax: "first name" [middle name] "last name"
 # accounts for middle name being more than 1 word
 # ex: 'Homer John Simpson' becomes 'homer.j.simpson@duke.edu'

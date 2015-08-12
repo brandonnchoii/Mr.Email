@@ -5,5 +5,5 @@ Basic software to correctly produce Duke email addresses from names &amp; id's. 
 
 Included in this repo: python code, practice text file, resulting text file<br><br>
 
-TODO: add script to automate mail app and insert recipient list.
+**TODO**: add script to automate mail app and insert recipient list.
 
