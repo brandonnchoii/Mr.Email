@@ -1,3 +1,5 @@
 js123@duke.edu
 john.smith@duke.edu
 apple.b.carrot@duke.edu
+piglatin.latinpig@duke.edu
+billy.joel@duke.edu
